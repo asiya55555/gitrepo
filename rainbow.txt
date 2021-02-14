@@ -4,6 +4,8 @@ orange
 yellow
 green
 blue
+purple
+pink
 indigo
 violet 
 these are colors of rainbow
